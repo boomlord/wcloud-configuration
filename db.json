@@ -1,3 +1,5 @@
 {
-  "isEnableSignUp": true
+  "signup": {
+    "isEnable": true
+  }
 }
