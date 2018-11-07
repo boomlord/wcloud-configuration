@@ -8,6 +8,6 @@
     "name": "typicode"
   },
   "signUp": {
-    "isEnabled": false
+    "isEnabled": true
   }
 }
